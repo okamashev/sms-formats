@@ -1,0 +1,13 @@
+^(?!.*(?:alan|ashti))([\d.,]+)\s*([A-Z]{3})\s*[\r\n]+\(\*+(\d{4})\)\s*[\r\n]+\s*([^\r\n]+?)\s*[\r\n]+(?:.*[\r\n]+)*?(\d{2}[./-]\d{2}[./-]\d{2,4})
+
+-----COLUMNS-----
+outcome;instrument;syncid;payee;date#dMy
+
+-----EXAMPLE-----
+150.00GEL
+(*8089)
+CHEMI MEGOBARI LTD
+Balance: 995.22GEL
+You’ve received: 1.05GEL
+In Ertguli Piggy bank you have: 24.56GEL
+11/06/26 18:49
